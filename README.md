@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olaviolacerda" alt="olaviolacerda" /> </p>
 
-- 🔭 I’m currently working on [Phi](https://somosphi.com/)
+- 🔭 I’m currently working on [bolttech](https://https://www.bolttech.io/)
 
-- 🌱 I’m currently learning **Kubernetes, Functional Programming and Software Architecture**
+- 🌱 I’m currently learning **Kubernetes, Golang and Software Architecture**
 
 - 💬 Ask me about **Anything! Let's talk :)**
 
