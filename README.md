@@ -1,4 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olaviolacerda&label=Profile%20views&color=0e75b6&style=flat" alt="olaviolacerda" /> </p>
+
 [![Latest blog post workflow](https://github.com/olaviolacerda/olaviolacerda/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/olaviolacerda/olaviolacerda/actions/workflows/blog-post-workflow.yml)
 
 <h1 align="center">Hi 👋, I'm Olavio Lacerda</h1>
