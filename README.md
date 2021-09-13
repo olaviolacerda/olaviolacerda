@@ -1,6 +1,3 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S267A82)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olaviolacerda&label=Profile%20views&color=0e75b6&style=flat" alt="olaviolacerda" /> </p>
-
 [![Latest blog post workflow](https://github.com/olaviolacerda/olaviolacerda/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/olaviolacerda/olaviolacerda/actions/workflows/blog-post-workflow.yml)
 
 <h1 align="center">Hi 👋, I'm Olavio Lacerda</h1>
@@ -13,6 +10,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/olaviolacerda](https://github.com/olaviolacerda)
 
 - 📝 I regularly write articles on [https://dev.to/olaviolacerda](https://dev.to/olaviolacerda)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S267A82)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
