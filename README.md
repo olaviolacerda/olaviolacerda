@@ -16,7 +16,7 @@ https://dev.to/olaviolacerda/object-assign-and-spread-operator-why-they-can-be-v
 <img style="display:flex; justify-content:center; align-items: center;" src="https://github-readme-stats.vercel.app/api?username=olaviolacerda&show_icons=true" alt="olaviolacerda" />
 
 <div style="display:flex; justify-content:center; align-items: center; color:#fff">
-<a href="https://dev.to/olaviolacerda" target="blank"><img align="center" style="color: #fff" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="olaviolacerda" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/olavio-lacerda" target="blank"><img align="center" style="color: #fff" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="olavio-lacerda" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/9388448" target="blank"><img align="center" style="color: #fff" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9388448" height="30" width="30" /></a>
+<a href="https://dev.to/olaviolacerda" target="blank"><img align="center" style="fill: #fff" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="olaviolacerda" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/olavio-lacerda" target="blank"><img align="center" style="fill: #fff" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="olavio-lacerda" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/9388448" target="blank"><img align="center" style="fill: #fff" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9388448" height="30" width="30" /></a>
 </div>
