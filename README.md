@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S267A82)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olaviolacerda&label=Profile%20views&color=0e75b6&style=flat" alt="olaviolacerda" /> </p>
 
 [![Latest blog post workflow](https://github.com/olaviolacerda/olaviolacerda/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/olaviolacerda/olaviolacerda/actions/workflows/blog-post-workflow.yml)
