@@ -1,3 +1,5 @@
+[![Latest blog post workflow](https://github.com/olaviolacerda/olaviolacerda/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/olaviolacerda/olaviolacerda/actions/workflows/blog-post-workflow.yml)
+
 <h1 align="center">Hi 👋, I'm Olavio Lacerda</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
