@@ -18,8 +18,6 @@
 - [Object Assign and Spread Operator: Why they can be villains?](https://dev.to/olaviolacerda/object-assign-and-spread-operator-why-they-can-be-villains-11gl)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olaviolacerda" alt="olaviolacerda" /></a> </p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olaviolacerda&show_icons=true&locale=en&layout=compact" alt="olaviolacerda" /></p>
 
 <h3 align="left">Connect with me:</h3>
