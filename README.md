@@ -15,6 +15,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Object Assign and Spread Operator: Why they can be villains?](https://olaviolacerda.medium.com/object-assign-and-spread-operator-why-they-can-be-villains-31a97561b585?source=rss-21d0a981b73d------2)
+- [Object Assign and Spread Operator: Why they can be villains?](https://dev.to/olaviolacerda/object-assign-and-spread-operator-why-they-can-be-villains-11gl)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olaviolacerda" alt="olaviolacerda" /></a> </p>
