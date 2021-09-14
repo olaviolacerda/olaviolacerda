@@ -1,7 +1,5 @@
 [![Latest blog post workflow](https://github.com/olaviolacerda/olaviolacerda/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/olaviolacerda/olaviolacerda/actions/workflows/blog-post-workflow.yml)
 
-> 🧙‍♂️ You'll never be ready for something, just try it.
-
 <h1 align="center">Hi 👋, I'm Olavio Lacerda</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
@@ -12,6 +10,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/olaviolacerda](https://github.com/olaviolacerda)
 
 - 📝 I regularly write articles on [https://dev.to/olaviolacerda](https://dev.to/olaviolacerda)
+
+> 🧙‍♂️ You'll never be ready for something, just try it.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
