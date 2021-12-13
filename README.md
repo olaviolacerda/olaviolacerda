@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [bolttech](https://https://www.bolttech.io/)
 
-- 🌱 I’m currently learning **JS Expert, Golang, Software Architecture...**
+- 🌱 I’m currently learning **Javascript, Golang, Software Architecture...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/olaviolacerda](https://github.com/olaviolacerda)
 
