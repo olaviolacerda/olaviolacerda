@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Olavio Lacerda</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently working on [bolttech](https://https://www.bolttech.io/)
+- 🔭 I’m currently working on [White Prompt](https://www.whiteprompt.com/)
 
 - 🌱 I’m currently learning **Javascript, Golang, Software Architecture...**
 
