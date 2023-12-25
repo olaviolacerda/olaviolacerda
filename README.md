@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Olavio Lacerda</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently working on [White Prompt](https://www.whiteprompt.com/)
+- 🔭 I’m currently working on [ADP](https://br.adp.com/)
 
-- 🌱 I’m currently learning **Javascript, Golang, Software Architecture...**
+- 🌱 I’m currently learning **NodeJS, Software Architecture...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/olaviolacerda](https://github.com/olaviolacerda)
 
